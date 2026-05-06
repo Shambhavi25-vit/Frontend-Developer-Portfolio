@@ -21,8 +21,6 @@ I am a B.Tech Computer Science and Engineering student at VIT Bhopal (Batch 2025
 *   **Sign Up Form:** A structured registration interface prioritizing layout and design.
 
 ## 📬 Contact
-*   **Live Demo:** (https://frontenddevelpmentportfolio.netlify.app/)
-*   **Email:** linkwithshambhavi@gmail.com
-*   **Location:** Kanpur, Uttar Pradesh
+*   **Live Demo:** https://frontenddevelpmentportfolio.netlify.app/
 *   **LinkedIn:** www.linkedin.com/in/shambhavi2710
-EOF
+*   **Email:** linkwithshambhavi@gmail.com
