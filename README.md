@@ -1,5 +1,3 @@
-# Frontend-Developer-Portfolio
-cat << 'EOF' > README.md
 # Professional Portfolio | Shambhavi Dixit
 
 A minimalist personal portfolio built to showcase my foundational skills in Frontend Development and UI/UX design. This project focuses on high-impact visual storytelling and clean, semantic code.
